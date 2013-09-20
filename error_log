@@ -1,0 +1,52 @@
+[17-Sep-2013 08:59:21] PHP Fatal error:  Class 'Cache' not found in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 32
+[17-Sep-2013 09:02:24] PHP Fatal error:  Class 'Controller_Website' not found in /home/infos274/public_html/gerenciador/application/classes/controller/index.php on line 3
+[17-Sep-2013 09:05:02] PHP Fatal error:  Class 'Kostache_Layout' not found in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 3
+[17-Sep-2013 09:08:05] PHP Fatal error:  Class 'Kostache_Layout' not found in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 3
+[17-Sep-2013 09:10:24] PHP Fatal error:  Class 'Kostache_Layout' not found in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 3
+[17-Sep-2013 09:49:12] PHP Fatal error:  Class 'Assets' not found in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 21
+[17-Sep-2013 09:50:26] PHP Fatal error:  Class 'Assets' not found in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 21
+[17-Sep-2013 13:47:59] PHP Notice:  date_default_timezone_set() [<a href='function.date-default-timezone-set'>function.date-default-timezone-set</a>]: Timezone ID 'America/São Paulo' is invalid in /home/infos274/public_html/gerenciador/application/bootstrap.php on line 25
+[17-Sep-2013 13:49:06] PHP Parse error:  syntax error, unexpected '}' in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 17
+[17-Sep-2013 13:49:14] PHP Parse error:  syntax error, unexpected '}' in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 17
+[17-Sep-2013 14:06:32] PHP Fatal error:  Cannot access empty property in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 23
+[17-Sep-2013 14:20:04] PHP Parse error:  syntax error, unexpected ')' in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 29
+[17-Sep-2013 14:21:58] PHP Parse error:  syntax error, unexpected ',' in /home/infos274/public_html/gerenciador/application/classes/view/website.php on line 19
+[17-Sep-2013 14:22:24] PHP Fatal error:  Class 'View_Website' not found in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 3
+[17-Sep-2013 14:55:51] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/infos274/public_html/gerenciador/system/config/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/infos274/public_html/gerenciador/application/bootstrap.php on line 126
+[17-Sep-2013 14:56:18] PHP Fatal error:  main() [<a href='function.require'>function.require</a>]: Failed opening required '/home/infos274/public_html/gerenciador/system/config/routes.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/infos274/public_html/gerenciador/application/bootstrap.php on line 126
+[17-Sep-2013 15:15:02] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_VARIABLE in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 11
+[17-Sep-2013 15:32:39] PHP Fatal error:  Class 'ImageFly' not found in /home/infos274/public_html/gerenciador/application/classes/controller/imagefly.php on line 36
+[17-Sep-2013 15:33:04] PHP Fatal error:  Class 'ImageFly' not found in /home/infos274/public_html/gerenciador/application/classes/controller/imagefly.php on line 36
+[17-Sep-2013 15:48:10] PHP Fatal error:  Class 'Image' not found in /home/infos274/public_html/gerenciador/modules/imagefly/classes/imagefly.php on line 162
+[17-Sep-2013 17:28:21] PHP Fatal error:  Call to undefined method Request::params() in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 10
+[17-Sep-2013 17:28:23] PHP Fatal error:  Call to undefined method Request::params() in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 10
+[17-Sep-2013 17:28:24] PHP Fatal error:  Call to undefined method Request::params() in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 10
+[17-Sep-2013 17:31:11] PHP Fatal error:  Call to undefined method Request::instance() in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 10
+[17-Sep-2013 17:31:12] PHP Fatal error:  Call to undefined method Request::instance() in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 10
+[17-Sep-2013 17:31:35] PHP Fatal error:  Call to undefined method Request::instance() in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 10
+[17-Sep-2013 17:31:55] PHP Fatal error:  Call to undefined method Request::instance() in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 10
+[17-Sep-2013 17:40:00] PHP Parse error:  syntax error, unexpected T_IF in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 20
+[17-Sep-2013 17:40:03] PHP Parse error:  syntax error, unexpected T_IF in /home/infos274/public_html/gerenciador/application/classes/controller/website.php on line 20
+[18-Sep-2013 09:46:30] PHP Parse error:  syntax error, unexpected T_IF in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 24
+[18-Sep-2013 09:51:10] PHP Parse error:  syntax error, unexpected ';' in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 21
+[18-Sep-2013 09:53:25] PHP Parse error:  syntax error, unexpected '{' in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 25
+[18-Sep-2013 10:07:09] PHP Parse error:  syntax error, unexpected '{' in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 25
+[18-Sep-2013 11:14:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 32
+[18-Sep-2013 11:18:58] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 28
+[18-Sep-2013 11:19:08] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 28
+[18-Sep-2013 11:19:11] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 28
+[18-Sep-2013 11:52:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 31
+[18-Sep-2013 11:52:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/infos274/public_html/gerenciador/application/classes/view/index.php on line 31
+[18-Sep-2013 11:55:37] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(38) : eval()'d code on line 1
+[18-Sep-2013 11:56:31] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(38) : eval()'d code on line 1
+[18-Sep-2013 11:58:01] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(43) : eval()'d code on line 1
+[18-Sep-2013 11:59:30] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(34) : eval()'d code on line 1
+[18-Sep-2013 11:59:50] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(32) : eval()'d code on line 1
+[18-Sep-2013 11:59:51] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(32) : eval()'d code on line 1
+[18-Sep-2013 12:00:26] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(32) : eval()'d code on line 1
+[18-Sep-2013 12:00:37] PHP Parse error:  syntax error, unexpected $end, expecting '(' in /home/infos274/public_html/gerenciador/application/classes/view/index.php(50) : eval()'d code on line 1
+[18-Sep-2013 12:03:38] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(34) : eval()'d code on line 1
+[18-Sep-2013 12:03:39] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(34) : eval()'d code on line 1
+[18-Sep-2013 12:04:36] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(22) : eval()'d code on line 1
+[18-Sep-2013 12:08:19] PHP Parse error:  syntax error, unexpected $end in /home/infos274/public_html/gerenciador/application/classes/view/index.php(36) : eval()'d code on line 1
+[18-Sep-2013 12:11:50] PHP Parse error:  syntax error, unexpected ';', expecting '(' in /home/infos274/public_html/gerenciador/application/classes/view/index.php(36) : eval()'d code on line 1
